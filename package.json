@@ -1,0 +1,29 @@
+{
+  "name": "convert-colorcodes",
+  "version": "1.0.0",
+  "description": "Color Code Conversion Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    
+    "url": "git+https://github.com/Deep-Codes/convert-colorcodes.git"
+  },
+  "keywords": [
+    "Color",
+    "Color-conversions",
+    "hex color code",
+    "hex-rgb",
+    "hex-cmyk",
+    "hex-hsl"
+  ],
+  "author": "Deepankar Bhade",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Deep-Codes/convert-colorcodes/issues"
+  },
+  "homepage": "https://github.com/Deep-Codes/convert-colorcodes#readme"
+  
+}
