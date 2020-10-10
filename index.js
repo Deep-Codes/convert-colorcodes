@@ -93,7 +93,7 @@ const hexToCMYK = (hex) => {
     computedY = (computedY - minCMY) / (1 - minCMY) ;
     computedK = minCMY;
    
-    return `cmyk(${computedC},${computedM},${computedY},${computedK})`;
+    return `cmyk(${computedC.toFixed(2)},${computedM.toFixed(2)},${computedY.toFixed(2)},${computedK.toFixed(2)})`;
 }
 
 exports.hexToRGB  = hexToRGB;
