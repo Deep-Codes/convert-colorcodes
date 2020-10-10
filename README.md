@@ -1,5 +1,10 @@
 ## Color Code Conversions
 
+npm install
+```
+npm i convert-colorcodes
+```
+
 ```
 const {hexToHSL , hexToRGB, hexToCMYK} = require('convert-colorcodes')
 
